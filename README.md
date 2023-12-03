@@ -1,8 +1,8 @@
 # Simpel script om Teamviewer ID te resetten 
 
 ### Dit script werkt op:
-*Debian
-*Ubuntu
+*Debian  
+*Ubuntu  
 
 Het zal vast op meerdere linux distro's werken.  
 Het zijn gewoon basic linux commando's.  
@@ -21,7 +21,7 @@ enp0s31f6 (dit is mijn Eth aansluiting)
 Heb je maar een interface? omdat je geen wifi hebt?  
 Verwijder dan een interface uit het script.  
 
-Check hoe je interfaces via:
+Check hoe je interfaces heten via:
 ```
 ip a
 ```
